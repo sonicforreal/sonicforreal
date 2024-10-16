@@ -5,7 +5,7 @@
 - 👀I'm excited to collaborate on projects and share my learning journey. 
 - 👋Let's connect and explore the world of data together!
 
-You can reach me on my gmaii = sonicgirnar@gmail.com
+ - You can reach me on my gmaii = sonicgirnar@gmail.com
 
 <!---
 sonicforreal/sonicforreal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
