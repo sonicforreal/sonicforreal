@@ -5,6 +5,8 @@
 - 👀I'm excited to collaborate on projects and share my learning journey. 
 - 👋Let's connect and explore the world of data together!
 
+This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+
  -- You can reach me on my gmail = sonicgirnar@gmail.com
 
 <!---
