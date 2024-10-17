@@ -8,6 +8,7 @@
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
  -- You can reach me on my gmail = sonicgirnar@gmail.com
+ -- My Linkedin = 
 
 <!---
 sonicforreal/sonicforreal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
